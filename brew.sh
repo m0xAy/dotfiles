@@ -8,6 +8,8 @@ brew install node
 brew install ripgrep
 brew install wget
 brew install tree-sitter
+brew install lazygit
+brew install stylua
 
 brew install brave-browser
 brew install google-chrome
